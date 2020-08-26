@@ -1,0 +1,15 @@
+Summary About This Session (Day2)
+1.Hal apa saja yang dipeljari ?
+* Git 
+* Command Git di bash
+* Vs Code Terminal
+2. Apa yang kalian dapat dari sesion hari ini?
+di sesion hari ini kita mendapatkan banyak ilmu terutama mengenai apa itu git. menggunakan git lab sebagai pembelajaran. 
+- mengetahui cara mengirim data ke dalam git lab, menkoneksikan lokal dengan server menggunakan gitbash
+3.Apa yang kalian dapatkan dari sesi kali ini?
+* Git adalah version kontrol  untuk mencatat file proyek yang dikerjaka oleh banyak orang maupun sendiri
+* Git init digunakan untuk sebagai reposetory local git. 
+* Git remote add origin <link_name> digunakan untuk menyambungkan / mengakses reposetory yang ada di git atau bahasa gampangnya meremote reposetory kita yang ada di git
+* Git add <file_name> digunakan untuk mengambil file akan kita upload ke git 
+* Git commit -m digunakanuntuk menambah keterangan/status perubahaan saat upload ke repository online
+* Git push origin master digunakan untuk mengirim file ke repository online kita
