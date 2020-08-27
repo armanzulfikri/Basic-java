@@ -1,0 +1,6 @@
+Summary About This Session (Day3)
+1.Hal apa saja yang dipeljari ?
+Pada hari ini kita belajar bagaimana cara membuat brach, fungsi dari branch itu sendiri. kemudian cara menggunakan merge.setelah itu kita diajarkan mentor basic html dan css 
+2. Teori Hari ini ?
+git checkout -b adalah membuat brach baru kemudian  langsung mengganti ke branch yang baru dibuat tadi
+git pull origin adalah menarik commit dari brach master pada repository remote
